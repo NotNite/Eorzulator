@@ -1,0 +1,3 @@
+[submodule "libs/LibRetriX"]
+	path = libs/LibRetriX
+	url = https://gitlab.com/jules/LibRetriX.git

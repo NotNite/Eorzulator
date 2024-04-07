@@ -1,0 +1,14 @@
+{
+  "Author": "NotNite",
+  "Name": "Eorzulator",
+  "Punchline": "Game console emulators in FFXIV",
+  "Description": "Game console emulators in FFXIV, powered by LibRetriX.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "game",
+    "minigame",
+    "emulator",
+    "retro",
+    "console"
+  ]
+}
